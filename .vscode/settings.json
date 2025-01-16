@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sx126x.h": "c",
+        "mw_log_conf.h": "c",
+        "lmhpfragmentation.h": "c",
+        "frag_decoder_if.h": "c"
+    }
+}
